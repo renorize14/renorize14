@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Rodolfo
 
-<!--
-**renorize14/renorize14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 FullStack Developer | Java Spring Boot Backend | React, React Native & Angular Frontend
+🌎 Actually living in Edmonton, AB, Canada
+⚽ Basketball/Football (Soccer) fan, building an app related with that
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Backend:** Java (Spring Boot), Node.js, Express
+- **Frontend:** React, React Native (Expo)
+- **Databases:** PostgreSQL, MongoDB
+- **Otros:** Docker, Git, REST APIs, WebSockets
+
+---
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=renorize14&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renorize14&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/rodolfo-soto-figueroa-855218207)  
+- [GitHub](https://github.com/renorize14)
