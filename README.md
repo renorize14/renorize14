@@ -5,26 +5,6 @@
 ⚽ Basketball/Football (Soccer) fan, building an app related with that
 
 ---
-
-## 🛠 Tech Stack
-- **Backend:** Java (Spring Boot), Node.js, Express
-- **Frontend:** React, React Native (Expo)
-- **Databases:** PostgreSQL, MongoDB
-- **Otros:** Docker, Git, REST APIs, WebSockets
-
----
-
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=renorize14&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renorize14&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/rodolfo-soto-figueroa-855218207)  
-- [GitHub](https://github.com/renorize14)
-
 ## 🚀 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -56,3 +36,15 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=renorize14&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renorize14&layout=compact&theme=tokyonight)
+
+---
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/rodolfo-soto-figueroa-855218207)  
+- [GitHub](https://github.com/renorize14)
+
