@@ -24,3 +24,7 @@
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/rodolfo-soto-figueroa-855218207)  
 - [GitHub](https://github.com/renorize14)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
