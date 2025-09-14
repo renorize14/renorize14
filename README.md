@@ -2,7 +2,7 @@
 
 💻 FullStack Developer | Java Spring Boot Backend | React, React Native & Angular Frontend
 🌎 Actually living in Edmonton, AB, Canada
-⚽ Basketball/Football (Soccer) fan, building an app related with that
+⚽ Basketball/Football (Soccer) fan, building an app related with that 
 
 ---
 ## 🚀 Tech Stack
