@@ -47,10 +47,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=renorize14&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renorize14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=renorize14&show_icons=true&theme=default)
 
 ---
 ## 🌐 Connect with me
